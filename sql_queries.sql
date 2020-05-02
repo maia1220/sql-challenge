@@ -1,9 +1,4 @@
-SELECT * FROM employees;
-SELECT * FROM salaries;
-SELECT * FROM 
-SELECT * FROM
-SELECT * FROM
-SELECT * FROM
+
 
 --1
 SELECT employees.emp_no, last_name, first_name, gender, salaries.salary
